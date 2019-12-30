@@ -1,0 +1,18 @@
+body
+{
+    background-image:  url(../Gambar/Tushita-Himalaya-Wallpaper-3840x2160.jpg);
+    background-size: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.badan
+{
+    background-color: wheat;
+    opacity: 0.77; 
+    padding: 25px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
